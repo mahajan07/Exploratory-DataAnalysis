@@ -1,6 +1,7 @@
 ## Exploratory-DataAnalysis
 
-The word <i> Bioinformatician </i> is life science speak for “data scientist,” the practitioner of an emerging discipline which studies massive collections of DNA sequence data looking for patterns. Sequence data is very interesting to work
+The word <i> Bioinformatician </i> is life science speak for <B>“Data scientist,”</B>
+* The practitioner of an emerging discipline which studies massive collections of DNA sequence data looking for patterns and Sequences data.
 ## Manageble structure
 ### Task 1: Introduction and Importing the Data
 ### Task 2: Separate Target from Features
